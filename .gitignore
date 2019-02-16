@@ -1,0 +1,10 @@
+## OS generated files
+.DS_Store
+.DS_Store?
+._*
+
+## Configuratiom
+/private/Config/config.php
+
+## Public Images like logo
+/public/images/logo/
