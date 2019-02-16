@@ -7,4 +7,5 @@
 /private/Config/config.php
 
 ## Public Images like logo
-/public/images/logo/
+/public/images/logo/*
+!/public/images/logo/.keep
